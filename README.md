@@ -1,0 +1,2 @@
+# origo
+Configurable dashboard.
